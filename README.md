@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Crazylqx
+- 👀 I’m interested in compilation technology.
+- 🌱 I’m currently learning Computer Architecture in UCAS.
+- 📫 My email: liquanxi20@mails.ucas.ac.cn
